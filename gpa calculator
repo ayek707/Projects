@@ -1,5 +1,5 @@
 # This program calculates the user's unweighted GPA 
-# based on the DCS grading scale
+# based on the district grading scale
 
 grade = '' 
 string = ""
