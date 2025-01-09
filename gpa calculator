@@ -16,7 +16,7 @@ while True:
     grade = input("Grade: ")
     if grade == "Done":
         break
-    # recieve amount of classes with this grade from user
+    
     try:
         amount = int(input("Amount of classes with this grade: "))
     except:
@@ -87,7 +87,7 @@ while True:
             break
             
 
-    # Adds values to these variables every iteration
+    
     points += (newGrade * amount)
     total_classes += amount
 
