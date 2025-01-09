@@ -1,1 +1,1 @@
-This is for small projects / programs 
+this is for projects
